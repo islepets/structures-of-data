@@ -49,6 +49,7 @@ struct list* delete(struct list* lst) {
 	if (next != NULL) {
 		next->prev = lst->prev;
 	}
+
 	free(lst);
 
 	return prev;
