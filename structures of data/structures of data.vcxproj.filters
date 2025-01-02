@@ -18,5 +18,8 @@
     <ClCompile Include="one-way_list.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="two-way_list.c">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
